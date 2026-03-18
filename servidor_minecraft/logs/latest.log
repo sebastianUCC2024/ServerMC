@@ -1,0 +1,553 @@
+[12:38:58] [main/INFO]: Loading Minecraft 1.20.2 with Fabric Loader 0.18.2
+[12:38:59] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 12
+[12:38:59] [ForkJoinPool-1-worker-4/WARN]: Mod spellbound_weapons_mr uses the version 4.0.5i which isn't compatible with Loader's extended semantic version format (Could not parse version number component '5i'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[12:39:01] [main/INFO]: Loading 117 mods:
+	- appleskin 2.5.1+mc1.20.2
+	- beavermod 1.1.0
+	- charmofundying 7.0.0+1.20.2
+	   \-- spectrelib 0.14.1+1.20.2
+	        |-- com_electronwill_night-config_core 3.6.5
+	        \-- com_electronwill_night-config_toml 3.6.5
+	- cloth-config 12.0.119
+	   \-- cloth-basic-math 0.6.1
+	- collective 7.26
+	- crab 1.0.2
+	- creativecore 2.11.2
+	   \-- net_minecraftforge_eventbus 6.0.3
+	- cristellib 1.2.0
+	   \-- blue_endless_jankson 1.2.3
+	- croptopia 3.0.1-1.20.2
+	- dungeons_arise 2.1.58
+	- emeraldequipment 2.0.1
+	- epherolib 1.2.0-1.20.2
+	- exlinecopperequipment 2.1.8
+	- fabric-api 0.91.2+1.20.2
+	   |-- fabric-api-base 0.4.33+fce67b32a0
+	   |-- fabric-api-lookup-api-v1 1.6.42+b1792f7da0
+	   |-- fabric-biome-api-v1 13.0.14+b1792f7da0
+	   |-- fabric-block-api-v1 1.0.12+73761d2ea0
+	   |-- fabric-block-view-api-v2 1.0.1+73761d2ea0
+	   |-- fabric-blockrenderlayer-v1 1.1.43+f4b7e424a0
+	   |-- fabric-client-tags-api-v1 1.1.4+86b12645a0
+	   |-- fabric-command-api-v1 1.2.37+f71b366fa0
+	   |-- fabric-command-api-v2 2.2.16+b1792f7da0
+	   |-- fabric-commands-v0 0.2.54+df3654b3a0
+	   |-- fabric-containers-v0 0.1.78+df3654b3a0
+	   |-- fabric-content-registries-v0 5.0.5+b1792f7da0
+	   |-- fabric-convention-tags-v1 1.5.8+b1792f7da0
+	   |-- fabric-crash-report-info-v1 0.2.20+f4b7e424a0
+	   |-- fabric-data-generation-api-v1 13.1.8+b1792f7da0
+	   |-- fabric-dimensions-v1 2.1.57+b1792f7da0
+	   |-- fabric-entity-events-v1 1.5.26+b1792f7da0
+	   |-- fabric-events-interaction-v0 0.6.10+b1792f7da0
+	   |-- fabric-events-lifecycle-v0 0.2.69+df3654b3a0
+	   |-- fabric-game-rule-api-v1 1.0.42+a44e16a6a0
+	   |-- fabric-item-api-v1 2.1.33+b1792f7da0
+	   |-- fabric-item-group-api-v1 4.0.15+e3d2bf3fa0
+	   |-- fabric-key-binding-api-v1 1.0.38+f4b7e424a0
+	   |-- fabric-keybindings-v0 0.2.36+df3654b3a0
+	   |-- fabric-lifecycle-events-v1 2.2.27+b1792f7da0
+	   |-- fabric-loot-api-v2 2.1.1+3ba460fba0
+	   |-- fabric-message-api-v1 6.0.2+e3d2bf3fa0
+	   |-- fabric-mining-level-api-v1 2.1.55+f4b7e424a0
+	   |-- fabric-model-loading-api-v1 1.0.6+b1792f7da0
+	   |-- fabric-models-v0 0.4.5+9386d8a7a0
+	   |-- fabric-networking-api-v1 3.1.2+95a8ac51a0
+	   |-- fabric-object-builder-api-v1 12.1.2+2ff98d3ba0
+	   |-- fabric-particles-v1 1.1.4+f4b7e424a0
+	   |-- fabric-recipe-api-v1 2.0.11+52b3ebe5a0
+	   |-- fabric-registry-sync-v0 4.0.9+b1792f7da0
+	   |-- fabric-renderer-api-v1 3.2.1+2034447ca0
+	   |-- fabric-renderer-indigo 1.5.1+2034447ca0
+	   |-- fabric-renderer-registries-v1 3.2.49+df3654b3a0
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+73761d2ea0
+	   |-- fabric-rendering-fluids-v1 3.0.30+f4b7e424a0
+	   |-- fabric-rendering-v0 1.1.52+df3654b3a0
+	   |-- fabric-rendering-v1 3.0.11+b1792f7da0
+	   |-- fabric-resource-conditions-api-v1 2.3.11+239dafd8a0
+	   |-- fabric-resource-loader-v0 0.11.12+b1792f7da0
+	   |-- fabric-screen-api-v1 2.0.12+b1792f7da0
+	   |-- fabric-screen-handler-api-v1 1.3.44+b1792f7da0
+	   |-- fabric-sound-api-v1 1.0.14+f4b7e424a0
+	   |-- fabric-transfer-api-v1 3.3.12+4944b5a5a0
+	   \-- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- friendsandfoes 2.0.6
+	- geckolib 4.2.4
+	   \-- com_eliotlash_mclib_mclib 20
+	- globalxp 1.10.4
+	- handcrafted 3.1.0
+	- ironchest 2.0.1
+	   \-- libgui 9.0.0+1.20.2
+	        |-- jankson 6.0.0+j1.2.3
+	        \-- libninepatch 1.2.0
+	- jade 12.3.0
+	- java 21
+	- jei 16.0.0.28
+	- journeymap 5.9.18
+	   \-- journeymap-api-fabric 1.20.2-1.9-fabric-SNAPSHOT
+	- lithium 0.12.0
+	- midnightlib 1.5.0
+	- minecraft 1.20.2
+	- mousewheelie 1.13.3+mc1.20.2
+	   |-- amecsapi 1.5.6+mc1.20.2
+	   |-- coat 1.0.0-beta.21+mc1.20.2
+	   |-- fabric-key-binding-api-v1 1.0.37+f4b7e424a0
+	   |-- fabric-screen-api-v1 2.0.10+0ba8e9cea0
+	   |-- tweed4_annotated 1.3.1+mc1.20.2
+	   |-- tweed4_base 1.7.1+mc1.20.2
+	   |-- tweed4_data 1.2.1+mc1.20.2
+	   |-- tweed4_data_hjson 1.1.1+mc1.20.2
+	   |-- tweed4_tailor_coat 1.1.3+mc1.20.2
+	   |-- tweed4_tailor_lang_json_descriptions 1.1.0+mc1.20.2
+	   \-- tweed4_tailor_screen 1.1.4+mc1.20.2
+	- packedup 1.0.30
+	- realisticbees 3.8
+	- regions_unexplored 0.5.3.2+1.20.2
+	   |-- completeconfig-base 2.5.2
+	   \-- completeconfig-gui-cloth 2.5.2
+	- resourcefullib 2.2.4
+	   |-- com_teamresourceful_bytecodecs 1.0.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- sound_physics_remastered 1.20.2-1.3.1
+	- spellbound_weapons_mr 4.0.5i
+	- starlight 1.1.3+fabric.5867eae
+	- structory 1.3.4
+	- structory_towers 1.0.6
+	- supermartijn642configlib 1.1.8+a
+	- supermartijn642corelib 1.1.16
+	- t_and_t 1.12
+	- terrablender 3.0.0.170
+	- terralith 2.4.11
+	- treeharvester 8.4
+	- trinkets 3.8.0
+	   |-- cardinal-components-base 5.3.0
+	   \-- cardinal-components-entity 5.3.0
+	- universal-graves 3.1.1+1.20.2
+	   |-- common-protection-api 1.0.0
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   |-- placeholder-api 2.2.0+1.20.2
+	   |-- polymer-core 0.6.0+1.20.2
+	   |    |-- polymer-networking 0.6.0+1.20.2
+	   |    |    \-- polymer-common 0.6.0+1.20.2
+	   |    |         \-- packet_tweaker 0.5.0+1.20.2-rc1
+	   |    \-- polymer-registry-sync-manipulator 0.6.0+1.20.2
+	   |-- polymer-resource-pack 0.6.0+1.20.2
+	   |    \-- polymer-common 0.6.0+1.20.2
+	   |         \-- packet_tweaker 0.5.0+1.20.2-rc1
+	   |-- polymer-virtual-entity 0.6.0+1.20.2
+	   |    \-- polymer-common 0.6.0+1.20.2
+	   |         \-- packet_tweaker 0.5.0+1.20.2-rc1
+	   |-- predicate-api 0.3.0+1.20.2
+	   |-- server_translations_api 2.1.0+1.20.2-rc2
+	   |    \-- packet_tweaker 0.5.0+1.20.2-rc1
+	   \-- sgui 1.3.0+1.20.2
+	- veinmining 2.1.0+1.20.2
+	   \-- spectrelib 0.14.1+1.20.2
+	        |-- com_electronwill_night-config_core 3.6.5
+	        \-- com_electronwill_night-config_toml 3.6.5
+[12:39:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ServerMC/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:39:02] [main/INFO]: Compatibility level set to JAVA_17
+[12:39:02] [main/INFO]: Loaded configuration file for Lithium: 125 options available, 0 override(s) found
+[12:39:02] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:39:02] [main/WARN]: Error loading class: net/minecraft/class_1007 (java.lang.ClassNotFoundException: net/minecraft/class_1007)
+[12:39:02] [main/WARN]: @Mixin target net.minecraft.class_1007 was not found beavermod.mixins.json:BeaverTailMixin from mod beavermod
+[12:39:03] [main/WARN]: Error loading class: net/minecraft/class_636 (java.lang.ClassNotFoundException: net/minecraft/class_636)
+[12:39:03] [main/WARN]: @Mixin target net.minecraft.class_636 was not found crab.mixins.json:ClientPlayerInteractionManagerMixin from mod crab
+[12:39:03] [main/WARN]: Error loading class: net/minecraft/class_293 (java.lang.ClassNotFoundException: net/minecraft/class_293)
+[12:39:03] [main/WARN]: @Mixin target net.minecraft.class_293 was not found creativecore.fabric.mixins.json:VertexFormatMixin from mod creativecore
+[12:39:04] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[12:39:04] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[12:39:12] [main/INFO]: Loading Collective version 7.26.
+[12:39:12] [main/INFO]: [STDOUT]: All 4 have been set properly
+[12:39:12] [main/INFO]: [STDOUT]: Registered Mod Items for crab
+[12:39:12] [main/INFO]: Creating default config file: croptopia_v3.conf
+[12:39:13] [ForkJoinPool.commonPool-worker-1/INFO]: [Friends&Foes] An update is available! You are using 2.0.6 version, but the latest version is 3.0.9.
+[12:39:15] [main/ERROR]: No data fixer registered for handcrafted
+[12:39:15] [main/INFO]: Initializing ServerSide Packet Registries
+[12:39:16] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[12:39:16] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[12:39:16] [main/INFO]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[12:39:16] [main/INFO]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[12:39:16] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[12:39:16] [main/INFO]: Reloaded configs for mousewheelie (server/highest)
+[12:39:16] [main/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:39:18] [Worker-Main-3/ERROR]: Couldn't load tag emeraldequipment:pickaxes as it is missing following references: emeraldequipment:emerald_pick (from fabric)
+[12:39:19] [Worker-Main-2/ERROR]: Couldn't parse data file exlinecopperequipment:recipes/misc/copper_bucket from exlinecopperequipment:advancements/recipes/misc/copper_bucket.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.rewards.recipes[1]
+	at net.minecraft.class_3518.method_47993(class_3518.java:529) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15267(class_3518.java:534) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15276(class_3518.java:584) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4309.method_51148(class_4309.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4309.method_20731(class_4309.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4309.method_18789(class_4309.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18791(class_4080.java:11) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.rewards.recipes[1]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1659) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1465) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.1.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.1.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.1.jar:?]
+	at net.minecraft.class_3518.method_47993(class_3518.java:527) ~[server-intermediary.jar:?]
+	... 13 more
+[12:39:19] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_hammer_blast
+com.google.gson.JsonParseException: No key tag in MapLike[{"item":"warhammersmod:hammer_copper"}]; Empty ingredient not allowed here; Not a json array: {"item":"warhammersmod:hammer_copper"}; Input does not contain a key [fabric:type]: MapLike[{"item":"warhammersmod:hammer_copper"}]
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe emeraldequipment:emerald_pick_smelt
+com.google.gson.JsonParseException: No key tag in MapLike[{"item":"emeraldequipment:emerald_pick"}]; Empty ingredient not allowed here; Not a json array: {"item":"emeraldequipment:emerald_pick"}; Input does not contain a key [fabric:type]: MapLike[{"item":"emeraldequipment:emerald_pick"}]
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_shears_recipe
+com.google.gson.JsonParseException: Crafting result must not be minecraft:air
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe emeraldequipment:emerald_hammer_blast
+com.google.gson.JsonParseException: No key tag in MapLike[{"item":"warhammersmod:emerald_hammer"}]; Empty ingredient not allowed here; Not a json array: {"item":"warhammersmod:emerald_hammer"}; Input does not contain a key [fabric:type]: MapLike[{"item":"warhammersmod:emerald_hammer"}]
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_hammer_smelt
+com.google.gson.JsonParseException: No key tag in MapLike[{"item":"warhammersmod:hammer_copper"}]; Empty ingredient not allowed here; Not a json array: {"item":"warhammersmod:hammer_copper"}; Input does not contain a key [fabric:type]: MapLike[{"item":"warhammersmod:hammer_copper"}]
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_bucket_recipe
+com.google.gson.JsonParseException: Crafting result must not be minecraft:air
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe emeraldequipment:emerald_hammer_smelt
+com.google.gson.JsonParseException: No key tag in MapLike[{"item":"warhammersmod:emerald_hammer"}]; Empty ingredient not allowed here; Not a json array: {"item":"warhammersmod:emerald_hammer"}; Input does not contain a key [fabric:type]: MapLike[{"item":"warhammersmod:emerald_hammer"}]
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe emeraldequipment:emerald_hammer_recipe
+com.google.gson.JsonParseException: Crafting result must not be minecraft:air
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe emeraldequipment:emerald_pick_blast
+com.google.gson.JsonParseException: No key tag in MapLike[{"item":"emeraldequipment:emerald_pick"}]; Empty ingredient not allowed here; Not a json array: {"item":"emeraldequipment:emerald_pick"}; Input does not contain a key [fabric:type]: MapLike[{"item":"emeraldequipment:emerald_pick"}]
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/ERROR]: Parsing error loading recipe exlinecopperequipment:copper_hammer_recipe
+com.google.gson.JsonParseException: Crafting result must not be minecraft:air
+	at net.minecraft.class_156.method_47526(class_156.java:984) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:59) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:38) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:951) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:939) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.18.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[12:39:19] [main/INFO]: Loaded 8 recipes
+[12:39:19] [main/ERROR]: Parsing error loading custom advancement exlinecopperequipment:recipes/misc/copper_pickaxe: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:copper_pickaxe
+[12:39:19] [main/ERROR]: Parsing error loading custom advancement emeraldequipment:recipes/misc/emerald_pickaxe: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:emerald_pick
+[12:39:19] [main/INFO]: Loaded 2731 advancements
+[12:39:19] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[12:39:19] [main/INFO]: Reloaded configs for mousewheelie (server/smallest)
+[12:39:22] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[12:39:22] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[12:39:22] [main/INFO]: Applied 896 biome modifications to 237 of 237 new biomes in 22.15 ms
+[12:39:22] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[12:39:22] [Server thread/INFO]: Loading properties
+[12:39:22] [Server thread/INFO]: Default game type: SURVIVAL
+[12:39:22] [Server thread/INFO]: Generating keypair
+[12:39:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:39:22] [Server thread/INFO]: Using epoll channel type
+[12:39:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:39:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:39:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:39:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:39:22] [Server thread/INFO]: Preparing level "world"
+[12:39:27] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[12:39:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:39:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:39:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:39:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:39:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:39:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:39:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:39:32] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[12:39:32] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[12:39:32] [Server thread/INFO]: Time elapsed: 5711 ms
+[12:39:32] [Server thread/INFO]: Done (10.158s)! For help, type "help"
+[12:39:32] [Server thread/INFO]: Start loading plugin from Global XP
+[12:39:32] [Server thread/INFO]: Start loading plugin from Jade
+[12:39:32] [Server thread/INFO]: Start loading plugin from Jade
+[12:39:32] [Server thread/INFO]: Start loading plugin from Jade
+[12:39:32] [Server thread/INFO]: Start loading plugin from Polymer (Core)
+[12:39:32] [Server thread/INFO]: Reloaded configs for mousewheelie (server/world)
+[12:39:39] [Server thread/INFO]: Bernenjena[/127.163.156.33:46989] logged in with entity id 111 at (2.5, 130.0, -2.5)
+[12:39:39] [Server thread/INFO]: Syncing config to Bernenjena (46ba4957-b1a7-3b0e-bb7a-6058b89aaff3)
+[12:39:39] [Server thread/INFO]: Bernenjena joined the game
+[12:40:03] [Server thread/INFO]: Made Bernenjena a server operator
+[12:41:52] [Server thread/INFO]: Bernenjena has made the advancement [Stone Age]
+[12:42:44] [Server thread/INFO]: Bernenjena has made the advancement [Getting an Upgrade]
+[12:45:34] [Server thread/INFO]: Bernenjena has made the advancement [Monster Hunter]
+[12:52:59] [Server thread/INFO]: [Bernenjena: Set own game mode to Creative Mode]
+[12:53:02] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[12:53:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:44] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:44] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:44] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:53:44] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[12:58:07] [Server thread/INFO]: [Bernenjena: Set own game mode to Creative Mode]
+[12:58:26] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:04:30] [Server thread/INFO]: Bernenjena has made the advancement [Acquire Hardware]
+[13:04:38] [Server thread/INFO]: Bernenjena has made the advancement [Suit Up]
+[13:14:31] [Server thread/INFO]: [Bernenjena: Applied effect Night Vision to Bernenjena]
+[13:19:36] [Server thread/INFO]: Bernenjena has made the advancement [Diamonds!]
+[13:24:46] [Server thread/INFO]: Locating element minecraft:village_snowy took 3126 ms
+[13:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[13:24:49] [Server thread/INFO]: [Bernenjena: Teleported Bernenjena to 3632.500000, 36.000000, -1295.500000]
+[13:24:56] [Server thread/INFO]: [Bernenjena: Set own game mode to Spectator Mode]
+[13:25:07] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:25:11] [Server thread/INFO]: Villager class_1646['Unemployed'/8396, l='ServerLevel[world]', x=3586.72, y=76.56, z=-1283.37] died, message: 'Unemployed suffocated in a wall'
+[13:25:27] [Worker-Main-1/ERROR]: Detected setBlock in a far chunk [238, -91], pos: class_2339{x=3808, y=55, z=-1447}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[13:25:27] [Worker-Main-1/ERROR]: Detected setBlock in a far chunk [238, -91], pos: class_2339{x=3808, y=56, z=-1447}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[13:26:56] [Server thread/INFO]: Bernenjena has made the advancement [Sweet Dreams]
+[13:32:43] [Server thread/INFO]: Locating element minecraft:village_plains took 3583 ms
+[13:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3551ms or 71 ticks behind
+[13:32:44] [Server thread/INFO]: GADIER[/127.163.156.33:53627] logged in with entity id 10571 at (58.5, 106.0, -1231.5)
+[13:32:44] [Server thread/INFO]: Syncing config to GADIER (0edbddac-46d4-333c-9563-a2c595b0fe15)
+[13:32:44] [Server thread/INFO]: GADIER joined the game
+[13:32:46] [Server thread/INFO]: [Bernenjena: Teleported Bernenjena to 5760.500000, 70.250000, -831.500000]
+[13:32:53] [Server thread/INFO]: [Bernenjena: Set own game mode to Spectator Mode]
+[13:32:58] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:33:07] [Server thread/INFO]: [Bernenjena: Teleported Bernenjena to GADIER]
+[13:34:02] [Server thread/INFO]: [Bernenjena: Teleported Bernenjena to 5760.500000, 101.000000, -831.500000]
+[13:34:02] [Server thread/INFO]: [Bernenjena: Set own game mode to Spectator Mode]
+[13:34:08] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:34:13] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-547, y=-5, z=-25}
+[13:35:33] [Server thread/INFO]: Bernenjena has made the advancement [The Lighthouse]
+[13:35:55] [Server thread/INFO]: [Bernenjena: Set own game mode to Spectator Mode]
+[13:36:12] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:36:49] [Server thread/INFO]: [Bernenjena: Set own game mode to Creative Mode]
+[13:36:49] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21211ms or 424 ticks behind
+[13:37:53] [Server thread/WARN]: GADIER moved too quickly! 4.89198951026458,2.0,8.575629407171164
+[13:38:23] [Server thread/INFO]: GADIER lost connection: Timed out
+[13:38:23] [Server thread/INFO]: GADIER left the game
+[13:38:48] [Server thread/INFO]: Locating element #dungeons_arise:explorer_maps/illager_campsite (dungeons_arise:illager_campsite) took 3395 ms
+[13:38:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[13:38:48] [Server thread/INFO]: [Bernenjena: Set own game mode to Creative Mode]
+[13:39:28] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:39:39] [Server thread/INFO]: Bernenjena has made the advancement [Super Creeps]
+[13:40:35] [Server thread/INFO]: [Bernenjena: Set own game mode to Creative Mode]
+[13:40:37] [Server thread/INFO]: [Bernenjena: Set own game mode to Spectator Mode]
+[13:43:35] [Server thread/INFO]: [Bernenjena: Set own game mode to Creative Mode]
+[13:43:38] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:44:23] [Server thread/INFO]: [Bernenjena: Set own game mode to Creative Mode]
+[13:44:38] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/19435, l='ServerLevel[world]', x=5907.70, y=102.01, z=-901.30] died: Dinnerbone was slain by Bernenjena
+[13:45:20] [Server thread/INFO]: Bernenjena has made the advancement [Bigger is better]
+[13:45:26] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[13:46:16] [Server thread/INFO]: [Bernenjena: Applied effect Strength to Bernenjena]
+[13:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37894ms or 757 ticks behind
+[13:46:53] [Server thread/INFO]: Bernenjena lost connection: Disconnected
+[13:47:19] [Server thread/INFO]: Bernenjena left the game
+[13:47:19] [Server thread/INFO]: Bernenjena (/127.163.156.33:55889) lost connection: Disconnected
+[13:47:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10834ms or 216 ticks behind
+[13:48:06] [Server thread/INFO]: Bernenjena[/127.121.214.120:59625] logged in with entity id 20241 at (5911.296411398881, 99.0, -916.8818712720797)
+[13:48:06] [Server thread/INFO]: Syncing config to Bernenjena (46ba4957-b1a7-3b0e-bb7a-6058b89aaff3)
+[13:48:06] [Server thread/INFO]: Bernenjena joined the game
+[13:48:18] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20264, l='ServerLevel[world]', x=5907.19, y=102.01, z=-911.30] died: Dinnerbone was slain by Bernenjena
+[13:48:19] [Server thread/INFO]: Bernenjena has made the advancement [Not Today, Thank You]
+[13:48:22] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20288, l='ServerLevel[world]', x=5902.27, y=102.01, z=-909.70] died: Dinnerbone was slain by Bernenjena
+[13:48:27] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20260, l='ServerLevel[world]', x=5902.00, y=102.01, z=-909.70] died: Dinnerbone was slain by Bernenjena
+[13:48:38] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20290, l='ServerLevel[world]', x=5902.89, y=102.01, z=-902.17] died: Dinnerbone was slain by Bernenjena
+[13:48:39] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20287, l='ServerLevel[world]', x=5901.51, y=102.01, z=-902.69] died: Dinnerbone was slain by Bernenjena
+[13:48:48] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20314, l='ServerLevel[world]', x=5910.30, y=102.01, z=-907.65] died: Dinnerbone was slain by Bernenjena
+[13:48:52] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20270, l='ServerLevel[world]', x=5912.62, y=102.01, z=-910.50] died: Dinnerbone was slain by Bernenjena
+[13:48:59] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20271, l='ServerLevel[world]', x=5915.29, y=102.01, z=-908.56] died: Dinnerbone was slain by Bernenjena
+[13:48:59] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20316, l='ServerLevel[world]', x=5915.29, y=102.01, z=-909.49] died: Dinnerbone was slain by Bernenjena
+[13:49:00] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20313, l='ServerLevel[world]', x=5915.93, y=102.01, z=-910.58] died: Dinnerbone was slain by Bernenjena
+[13:49:02] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20872, l='ServerLevel[world]', x=5913.22, y=102.01, z=-911.70] died: Dinnerbone was slain by Bernenjena
+[13:49:03] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20268, l='ServerLevel[world]', x=5915.07, y=102.01, z=-911.38] died: Dinnerbone was slain by Bernenjena
+[13:50:51] [Server thread/INFO]: [Bernenjena: Triggered [spellbound_recipes]]
+[13:57:30] [Server thread/INFO]: [Bernenjena: Removed effect Strength from Bernenjena]
+[13:57:40] [Server thread/INFO]: [Bernenjena: Applied effect Strength to Bernenjena]
+[13:58:03] [Server thread/INFO]: Chevispapus[/127.163.156.33:49339] logged in with entity id 24216 at (85.1255154557707, 95.0, -1217.9749801493176)
+[13:58:03] [Server thread/INFO]: Syncing config to Chevispapus (5a50a1c1-16d7-3604-ba5a-7995b6298fea)
+[13:58:03] [Server thread/INFO]: Chevispapus joined the game
+[13:58:29] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20796, l='ServerLevel[world]', x=5900.98, y=110.01, z=-910.60] died: Dinnerbone was slain by Bernenjena
+[13:58:31] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/21045, l='ServerLevel[world]', x=5899.77, y=110.01, z=-910.46] died: Dinnerbone was slain by Bernenjena
+[13:58:34] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/24609, l='ServerLevel[world]', x=5906.35, y=110.01, z=-911.70] died: Dinnerbone was slain by Bernenjena
+[13:58:35] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/24749, l='ServerLevel[world]', x=5907.31, y=110.01, z=-909.16] died: Dinnerbone was slain by Bernenjena
+[13:58:37] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20973, l='ServerLevel[world]', x=5907.29, y=110.01, z=-904.30] died: Dinnerbone was slain by Bernenjena
+[13:58:41] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20269, l='ServerLevel[world]', x=5904.84, y=110.01, z=-901.30] died: Dinnerbone was slain by Bernenjena
+[13:59:23] [Server thread/INFO]: [Not Secure] <Bernenjena> 5898.23 106.06 -894.51 2052.72 1.20
+[13:59:53] [Server thread/INFO]: [Chevispapus: Teleported Chevispapus to Bernenjena]
+[13:59:53] [Server thread/INFO]: Chevispapus was slain by Bernenjena
+[13:59:53] [Server thread/INFO]: Chevispapus has made the advancement [Super Creeps]
+[14:00:13] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20261, l='ServerLevel[world]', x=5918.08, y=110.01, z=-902.94] died: Dinnerbone was shot by Dinnerbone
+[14:00:19] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/24751, l='ServerLevel[world]', x=5912.03, y=110.01, z=-908.87] died: Dinnerbone was shot by Dinnerbone
+[14:00:22] [Server thread/INFO]: [Bernenjena: Teleported Chevispapus to Bernenjena]
+[14:00:37] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/22940, l='ServerLevel[world]', x=5917.56, y=110.01, z=-908.10] died: Dinnerbone was shot by Dinnerbone
+[14:00:53] [Server thread/INFO]: [Bernenjena: Removed effect Strength from Bernenjena]
+[14:00:55] [Server thread/INFO]: [Bernenjena: Applied effect Strength to Bernenjena]
+[14:01:03] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/26170, l='ServerLevel[world]', x=5918.72, y=110.01, z=-902.66] died: Dinnerbone was shot by Dinnerbone
+[14:01:44] [Server thread/INFO]: [Bernenjena: Removed effect Strength from Bernenjena]
+[14:01:48] [Server thread/INFO]: [Bernenjena: Applied effect Strength to Bernenjena]
+[14:03:48] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/22492, l='ServerLevel[world]', x=5899.30, y=118.01, z=-887.70] died: Dinnerbone was shot by Dinnerbone
+[14:03:59] [Server thread/INFO]: [Bernenjena: Removed effect Strength from Bernenjena]
+[14:03:59] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/26395, l='ServerLevel[world]', x=5899.48, y=118.01, z=-886.96] died: Dinnerbone was shot by Dinnerbone
+[14:04:06] [Server thread/INFO]: [Bernenjena: Applied effect Strength to Bernenjena]
+[14:04:29] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/26973, l='ServerLevel[world]', x=5899.30, y=118.01, z=-883.50] died: Dinnerbone was shot by Dinnerbone
+[14:04:40] [Server thread/INFO]: [Bernenjena: Set own game mode to Spectator Mode]
+[14:04:51] [Server thread/INFO]: Chevispapus lost connection: Disconnected
+[14:04:51] [Server thread/INFO]: Chevispapus left the game
+[14:06:11] [Server thread/INFO]: [Bernenjena: Set own game mode to Survival Mode]
+[14:06:15] [Server thread/INFO]: Bernenjena lost connection: Disconnected
+[14:06:15] [Server thread/INFO]: Bernenjena left the game
